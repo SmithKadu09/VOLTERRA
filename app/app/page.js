@@ -625,7 +625,7 @@ export default function Home() {
               GENERAL ENQUIRIES
             </p>
             <h4 className="mt-2 text-sm font-semibold">
-              hello@volterra.example
+              smithflexion09@gmail.com
             </h4>
           </div>
 
